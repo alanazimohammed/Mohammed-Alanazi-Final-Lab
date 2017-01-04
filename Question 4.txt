@@ -1,0 +1,8 @@
+In Github there is a sequance you should respect when creating a repisotary and it goes like this:
+First of all you have to create your reposotory and after wards you can do the following which is you can browse it or change files and add files.
+then in changes you commit and update and after commiting you can make a branch or update or make a pull request.
+after that you can revert what you have done and submit the changes then you can publish it.
+
+So it goes like this:
+
+Create>Browse and/or Change> Commit> Branch and/or Update and/or revert > Change > Update > Commit > Publish
